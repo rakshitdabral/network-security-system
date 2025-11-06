@@ -4,6 +4,7 @@ numpy
 pymongo
 setuptools
 certifi
-
+scikit-learn
+typing
 
 # -e .
