@@ -6,5 +6,7 @@ setuptools
 certifi
 scikit-learn
 typing
+dill
+pyaml
 
 # -e .
