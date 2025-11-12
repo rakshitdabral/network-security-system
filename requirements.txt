@@ -9,5 +9,7 @@ typing
 dill
 pyaml
 mlflow
+fastapi
+python-multipart
 
 # -e .
