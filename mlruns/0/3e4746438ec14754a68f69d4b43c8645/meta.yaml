@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Work/network-security-system/mlruns/0/3e4746438ec14754a68f69d4b43c8645/artifacts
+end_time: 1762940998785
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e4746438ec14754a68f69d4b43c8645
+run_name: thundering-stork-941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762940995655
+status: 3
+tags: []
+user_id: raksh
